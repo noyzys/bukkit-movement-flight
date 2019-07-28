@@ -1,0 +1,12 @@
+name: FlightPlugin
+main: me.noyzys.flight.FlightPlugin
+version: 1.0-SNAPSHOT
+author: "n0YzyS"
+
+commands:
+  aliases: [
+    flight,
+    fly,
+    latanie
+  ]
+
